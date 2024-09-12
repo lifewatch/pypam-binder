@@ -1,4 +1,4 @@
 pvlib==0.11.0
-lifewatch-pypam==0.3.1
+lifewatch-pypam==0.3.0
 minio==7.2.8
 umap-learn==0.5.6
