@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pypam-binder"
+version = "0.1.0"
+description = "Collection of jupyter notebooks"
+authors = ["Clea Parcerisas clea.parcerisas@vliz.be"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12.0"
+lifewatch-pypam = "^0.3.0"
+minio = "^7.2.8"
+pvlib = "^0.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
