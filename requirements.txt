@@ -3,7 +3,7 @@ argon2-cffi==23.1.0 ; python_version >= "3.11" and python_full_version < "3.12.0
 audioread==3.0.1 ; python_version >= "3.11" and python_full_version < "3.12.0"
 build==1.2.2 ; python_version >= "3.11" and python_full_version < "3.12.0"
 cachecontrol[filecache]==0.14.0 ; python_version >= "3.11" and python_full_version < "3.12.0"
-certifi==2023.11.17 ; python_version >= "3.11" and python_full_version < "3.12.0"
+certifi==2024.7.4 ; python_version >= "3.11" and python_full_version < "3.12.0"
 cffi==1.17.1 ; python_version >= "3.11" and python_full_version < "3.12.0"
 cftime==1.6.4 ; python_version >= "3.11" and python_full_version < "3.12.0"
 charset-normalizer==3.3.2 ; python_version >= "3.11" and python_full_version < "3.12.0"
